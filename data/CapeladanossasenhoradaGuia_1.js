@@ -1,0 +1,1 @@
+var json_CapeladanossasenhoradaGuia_1 = {"type":"FeatureCollection","name":"CapeladanossasenhoradaGuia_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[-8.027493200543093,41.193736434943901]}}]}
